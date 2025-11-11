@@ -17,10 +17,30 @@ have been applied on a dataset samples corresponding to 23 species of gilled mus
 in the Agaricus and Lepiota Family Mushroom. Some exploratory data analysis have been 
 performed on the dataset for a better understanding of the attributes.</p>
   </div>
+  <br>
+   <div align="center">
+  <h2>Features</h2>
+  <p>  8 machine learning models are created based on textual and numerical 
+information such as cap-shape, cap-surface, cap-color, bruises, odor, gill- attachment, gill
+spacing, gill-size, gill-color, stalk-shape, stalk-root, stalk-surface-above-ring, stalk
+surface-below-ring, stalk-color-above-ring, stalk-color-below-ring, veil-type, veil-color, 
+ring-number, ring-type, spore-print-color, population and habitat from the samples 
+corresponding to 23 species of gilled mushrooms in the Agaricus and Lepiota Family 
+Mushroom.4 machine learning algorithms such as Decision Tree, K-Nearest Neighbor, 
+Support Vector Machine and Random Forest have succeeded with 100% accuracy to detect 
+edible and poisonous mushrooms when the dataset is separated using Stratified Train-Test 
+Split technique. Attributes such Odor, Gill-Color and Gill-Size have a strong influence on 
+classifying the mushrooms. Mushroom with tapering stalk-shape, bulbous stalk-root, scaly 
+stalk-surface-above-ring, pendant ring type, growing in woods or abundant population are 
+have higher chances of being edible.</p>
+  </div>
+  <br>
+  
 <div align="center">
   <h2>Model Building</h2>
   <img src="https://github.com/sumaiyachowdhurycse25/Poisonous-or-Edible-Mushroom-/blob/master/Model%20Building.PNG">
 </div>
+<br>
 <div align="center">
   <h2>Skills Required</h2>
   
