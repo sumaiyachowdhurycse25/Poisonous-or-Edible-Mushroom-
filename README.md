@@ -3,10 +3,10 @@
   <h1>Poisonous or Edible Mushroom Recognizer</h1>
   
    </div>
-<br>
+
   <div align="center">
   <h2>Project Description</h2>
-  <p> Mushroom is delicacy relished by people all over the world. It has great medical benefits 
+  <p> Mushroom is a delicacy relished by people all over the world. It has great medical benefits 
 as well. But not all mushrooms can be digested and can lead to even death. Some 
 mushrooms are edible and some of them are poisonous. So, it is essential to distinguish 
 poisonous mushrooms from the edible ones. To detect it manually can be laborious, time 
