@@ -23,9 +23,7 @@ performed on the dataset for a better understanding of the attributes.</p>
 </div>
 <div align="center">
   <h2>Skills Required</h2>
-  <p>TensorFlow</p>
-  <p>Keras</p>
-  <p>OpenCV</p>
+  
   <p>Scikit-learn</p>
   <p>Numpy</p>
   <p>Pandas</p>
