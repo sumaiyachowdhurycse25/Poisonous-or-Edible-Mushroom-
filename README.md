@@ -41,6 +41,13 @@ have higher chances of being edible.</p>
   <img src="https://github.com/sumaiyachowdhurycse25/Poisonous-or-Edible-Mushroom-/blob/master/Model%20Building.PNG">
 </div>
 <br>
+<img width="862" height="811" alt="image" src="https://github.com/user-attachments/assets/43b9f5f0-5fc1-4848-af9f-f95c475a2ad4" />
+<div align="center">
+  <h2>Dataset Description</h2>
+  <img src="https://github.com/sumaiyachowdhurycse25/Poisonous-or-Edible-Mushroom-/blob/master/Model%20Building.PNG">
+</div>
+<br>
+
 <div align="center">
   <h2>Skills Required</h2>
   
